@@ -1,0 +1,19 @@
+{
+  "name": "bup-sen-xanh",
+  "version": "1.0.0",
+  "description": "Búp Sen Xanh - Gieo Hy Vọng, Vẽ Tương Lai",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Static HTML site - no build needed'"
+  },
+  "keywords": [
+    "html",
+    "charity",
+    "vercel-analytics"
+  ],
+  "author": "CFE Foundation",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
